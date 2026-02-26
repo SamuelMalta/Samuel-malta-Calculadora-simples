@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\CalculadoraSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula_1.Form1.resources
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\CalculadoraSimples.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.pdb
