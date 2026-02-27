@@ -31,7 +31,7 @@ namespace Aula_1
 
             soma = numero1 + numero2;
 
-            label4.Text = "RESULTADO: " + soma;
+            label4.Text = "RESULTADO: " + soma.ToString();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -42,6 +42,23 @@ namespace Aula_1
         private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            label4.Text = "RESULTADO: ";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
